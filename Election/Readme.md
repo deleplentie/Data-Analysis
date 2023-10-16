@@ -6,7 +6,7 @@ This report presents a comprehensive analysis of the recently concluded Election
 
 Table of Contents:
 
-1. [Introduction](#1. Introduction)
+1. [Introduction](#1.-Introduction)
 2. [Voter Preferences](#Voter-Preferences)
 3. [Regional Analysis](#Regional-Analysis)
 4. [Election Outcome and Implications](#Election-Outcome-and-Implications)
