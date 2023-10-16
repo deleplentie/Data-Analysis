@@ -2,7 +2,7 @@
 
 Executive Summary:
 
-This report presents a comprehensive analysis of the recently concluded Election on 20th September 2023. We delve into voter preferences, demographics, county variations, and the final election outcome. The findings offer valuable insights for future election strategies and governance.
+This report presents a comprehensive analysis of the recently concluded Election on 20th September 2023. We delve into voter preferences, county variations, and the final election outcome. The findings offer valuable insights for future election strategies and governance.
 
 Table of Contents:
 
