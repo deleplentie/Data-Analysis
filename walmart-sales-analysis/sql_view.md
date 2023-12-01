@@ -23,7 +23,7 @@
 
 
 
-## 2. Business Analysis
+> ## 2. Business Analysis
 
 
 ### Generic Question
@@ -35,7 +35,7 @@
 - In which city is each branch?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/98388a38-125e-4d20-93ab-499e980a99e4" width=500 />
 
-- [x] #29
+
 
 
 
