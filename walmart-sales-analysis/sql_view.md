@@ -23,7 +23,7 @@
 
 
 
-## Business Analysis
+## 2. Business Analysis
 
 
 ### Generic Question
@@ -34,3 +34,22 @@
   
 - In which city is each branch?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/98388a38-125e-4d20-93ab-499e980a99e4" width=500 />
+
+- [x] #29
+
+
+
+
+Product
+How many unique product lines does the data have?
+What is the most common payment method?
+What is the most selling product line?
+What is the total revenue by month?
+What month had the largest COGS?
+What product line had the largest revenue?
+What is the city with the largest revenue?
+What product line had the largest VAT?
+Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+Which branch sold more products than average product sold?
+What is the most common product line by gender?
+What is the average rating of each product line?
