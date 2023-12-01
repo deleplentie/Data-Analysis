@@ -1,7 +1,7 @@
 ## First Approach
 
 ### - Build a `walmart database`
-<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/2b0b313a-1db1-4b7f-bdff-94b572838985" width=200px />
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/2b0b313a-1db1-4b7f-bdff-94b572838985" width=200 />
 ![image](https://github.com/deleplentie/Data-Analysis/assets/56873269/2b0b313a-1db1-4b7f-bdff-94b572838985)
 
 
