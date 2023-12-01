@@ -1,5 +1,8 @@
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/2b0b313a-1db1-4b7f-bdff-94b572838985" width=500 />
 
+> [!NOTE]
+> See [documentation](https://github.com/deleplentie/Data-Analysis/walmart-sales-analysis/README.md} for better understanding of this project
+
 ## 1. First Approach
 
  - Build a `walmart database`
@@ -22,17 +25,16 @@
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/e3041c28-fa7f-4c78-a738-41acf93f7e28 " width=500 />
 
 
-
-> ## 2. Business Analysis
-
-
-### Generic Question
+## 2. Business Analysis
 
 
-- How many unique cities does the data have?
+> ### Generic Question
+
+
+>  How many unique cities does the data have?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/0e0cf2ab-e2cd-4a21-a955-d86084c26b11" width=500 />
   
-- In which city is each branch?
+> In which city is each branch?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/98388a38-125e-4d20-93ab-499e980a99e4" width=500 />
 
 
