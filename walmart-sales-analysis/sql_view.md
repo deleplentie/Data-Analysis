@@ -15,7 +15,7 @@
 
 
 - Add a new column named `day_name` that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
-<img src=https://github.com/deleplentie/Data-Analysis/assets/56873269/d20fc590-d36e-41f4-8375-23291d7617dc)" width=500 />
+<img src=https://github.com/deleplentie/Data-Analysis/assets/56873269/d20fc590-d36e-41f4-8375-23291d7617dc" width=300 />
 
  
 - Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
