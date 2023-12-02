@@ -31,10 +31,10 @@
 ### Generic Question
 
 
->  How many unique cities does the data have?
+-  How many unique cities does the data have?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/0e0cf2ab-e2cd-4a21-a955-d86084c26b11" width=500 />
   
-> In which city is each branch?
+- In which city is each branch?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/98388a38-125e-4d20-93ab-499e980a99e4" width=500 />
 
 
@@ -43,15 +43,14 @@
 
 
 ### Product
-> How many unique product lines does the data have?
-> <img src"https://github.com/deleplentie/Data-Analysis/assets/56873269/1fe65fea-6a6a-4591-a00d-a759018ae95b" width=500 />
+- How many unique product lines does the data have?
+<img src"https://github.com/deleplentie/Data-Analysis/assets/56873269/1fe65fea-6a6a-4591-a00d-a759018ae95b" width=500 />
 
+- What is the most common payment method?
+<img src"https://github.com/deleplentie/Data-Analysis/assets/56873269/47868623-fdf4-4aae-8888-36bc20e973ff" width=500 />
 
-> What is the most common payment method?
-> <img src"https://github.com/deleplentie/Data-Analysis/assets/56873269/47868623-fdf4-4aae-8888-36bc20e973ff" width=500 />
-
-> What is the most selling product line?
-> <img src"https://github.com/deleplentie/Data-Analysis/assets/56873269/933f3be3-1979-4715-9fa0-c52184130498" width=500 />
+- What is the most selling product line?
+<img src"https://github.com/deleplentie/Data-Analysis/assets/56873269/933f3be3-1979-4715-9fa0-c52184130498" width=500 />
 
 
 
