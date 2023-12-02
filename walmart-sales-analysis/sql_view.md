@@ -67,7 +67,7 @@
 - What product line had the largest VAT?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/57c1c6f6-883b-40e1-a033-dacbc5176cb2" width=500 />
 
-- Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+- Fetch each product line and add a column to those product line showing "Good", "Low". Good if its greater than average sales
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/7234fab7-eb1f-4697-8873-4a0b2d33ffde" width=500 />
 
 - Which branch sold more products than average product sold?
@@ -77,5 +77,12 @@ What is the most common product line by gender?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/84bf35ea-1a73-4591-91d6-ce40759ea303" width=500 />
 
 What is the average rating of each product line?
-<img src="https://github.com/deleplentie/Data-Analysis/ass;;;;;;;;;ets/56873269/27f68385-d32e-4030-9340-ab5660f2ed24" width=500 />
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/e76f5780-4ecb-478d-bbb4-2beca1c0b0aa" width=500 />
 
+
+
+### Sales
+Number of sales made in each time of the day per weekday
+Which of the customer types brings the most revenue?
+Which city has the largest tax percent/ VAT (Value Added Tax)?
+Which customer type pays the most in VAT?
