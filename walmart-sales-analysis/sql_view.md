@@ -59,11 +59,23 @@
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/c23b0720-5c54-400b-a41b-7bb128a3420f" width=500 />
 
 - What product line had the largest revenue?
-  <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/f7bd48a6-75ef-41bd-9322-96823b2cecbc" width=500 />
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/f7bd48a6-75ef-41bd-9322-96823b2cecbc" width=500 />
 
-What is the city with the largest revenue?
-What product line had the largest VAT?
+- What is the city with the largest revenue?
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/1f6447a5-2ede-4012-84fe-0ed7b7aa643d" width=500 />
+
+- What product line had the largest VAT?
+<img src="" width=500 />
+
 Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+<img src="" width=500 />
+
 Which branch sold more products than average product sold?
+<img src="" width=500 />
+
 What is the most common product line by gender?
+<img src="" width=500 />
+
 What is the average rating of each product line?
+<img src="" width=500 />
+
