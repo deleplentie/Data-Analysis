@@ -45,7 +45,6 @@
 ### Product
 - How many unique product lines does the data have?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/1fe65fea-6a6a-4591-a00d-a759018ae95b" width=500 />
-<br>
 
 - What is the most common payment method?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/47868623-fdf4-4aae-8888-36bc20e973ff" width=500 />
@@ -53,15 +52,15 @@
 - What is the most selling product line?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/933f3be3-1979-4715-9fa0-c52184130498" width=500 />
 
+- What is the total revenue by month?
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/5b406abb-42a7-431b-8a3f-65d0f1899c58" width=500 />
 
+- What month had the largest COGS?
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/c23b0720-5c54-400b-a41b-7bb128a3420f" width=500 />
 
+- What product line had the largest revenue?
+  <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/f7bd48a6-75ef-41bd-9322-96823b2cecbc" width=500 />
 
-
-
-
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
 What is the city with the largest revenue?
 What product line had the largest VAT?
 Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
