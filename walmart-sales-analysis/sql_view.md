@@ -68,14 +68,14 @@
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/57c1c6f6-883b-40e1-a033-dacbc5176cb2" width=500 />
 
 - Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-<img src="" width=500 />
-
-- Which branch sold more products than average product sold?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/7234fab7-eb1f-4697-8873-4a0b2d33ffde" width=500 />
 
+- Which branch sold more products than average product sold?
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/08a5ceb2-014b-44c2-b1a1-d21c9ad5adef" width=500 />
+
 What is the most common product line by gender?
-<img src="" width=500 />
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/84bf35ea-1a73-4591-91d6-ce40759ea303" width=500 />
 
 What is the average rating of each product line?
-<img src="" width=500 />
+<img src="https://github.com/deleplentie/Data-Analysis/ass;;;;;;;;;ets/56873269/27f68385-d32e-4030-9340-ab5660f2ed24" width=500 />
 
