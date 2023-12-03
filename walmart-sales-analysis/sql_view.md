@@ -1,7 +1,5 @@
-<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/2b0b313a-1db1-4b7f-bdff-94b572838985" width=500 />
-
 > [!NOTE]
-> See [documentation](https://github.com/deleplentie/Data-Analysis/walmart-sales-analysis/README.md) for better understanding of this project
+> See [documentation](https://github.com/deleplentie/Data-Analysis/blob/main/walmart-sales-analysis/README.md) for better understanding of this project
 
 ## 1. First Approach
 
