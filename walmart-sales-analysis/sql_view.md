@@ -1,5 +1,5 @@
 > [!NOTE]
-> See [documentation](https://github.com/deleplentie/Data-Analysis/blob/main/walmart-sales-analysis/README.md) for better understanding of this project
+> See [documentation](https://github.com/deleplentie/Data-Analysis/blob/main/walmart-sales-analysis/README.md) for better understanding of this project.
 > Check for the [Walmart raw data](https://github.com/deleplentie/Data-Analysis/blob/main/walmart-sales-analysis/WalmartSalesData.csv.csv)
 
 ## 1. First Approach
