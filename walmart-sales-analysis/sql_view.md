@@ -73,16 +73,27 @@
 - Which branch sold more products than average product sold?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/08a5ceb2-014b-44c2-b1a1-d21c9ad5adef" width=500 />
 
-What is the most common product line by gender?
+- What is the most common product line by gender?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/84bf35ea-1a73-4591-91d6-ce40759ea303" width=500 />
 
-What is the average rating of each product line?
+- What is the average rating of each product line?
 <img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/e76f5780-4ecb-478d-bbb4-2beca1c0b0aa" width=500 />
 
 
 
 ### Sales
-Number of sales made in each time of the day per weekday
-Which of the customer types brings the most revenue?
-Which city has the largest tax percent/ VAT (Value Added Tax)?
-Which customer type pays the most in VAT?
+- Total number of sales made in each city in each time of the day on weekdays
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/8c1e5d3e-1780-43f9-8aae-f887c12052b9" width=500 />
+
+- Total number of sales made in each city in each time of the day on weekends
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/cfa9d81b-c0d8-402a-84ff-3e5bdacc4653" width=500 />
+
+- Which of the customer types brings the most revenue?
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/fb32bd68-9550-4152-adb9-42d640e7b57f" width=500 />
+
+- Which city has the largest tax percent/ VAT (Value Added Tax)?
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/c9116925-b452-43f4-920f-66730947a3ab" width=500 />
+
+- Which customer type pays the most in VAT?
+<img src="https://github.com/deleplentie/Data-Analysis/assets/56873269/aede8dea-57ea-4a6d-bb24-16e3c8056609" width=500 />
+
